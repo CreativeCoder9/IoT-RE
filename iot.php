@@ -9,6 +9,7 @@ if(!empty($_GET))
 		fwrite($file, $button);
 		fclose($file);
 		// echo "SUCCESS";
+		header("Location:https://iotcontroller9.000webhostapp.com/");
 	}else{
 		 echo "ERROR.......NO_MATCH_FOUND";
 	} 
