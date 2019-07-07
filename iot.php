@@ -8,7 +8,7 @@ if(!empty($_GET))
 	{
 		fwrite($file, $button);
 		fclose($file);
-		echo "SUCCESS";
+		// echo "SUCCESS";
 	}else{
 		 echo "ERROR.......NO_MATCH_FOUND";
 	} 
