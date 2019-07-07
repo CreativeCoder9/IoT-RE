@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.switches{
+margin: 100px;
+padding: 100px;
+background-color: #ffffff;
+}
+.header{
+	padding:50px;
+}
+.red_switch{
+	background-color: #ff1717;
+	padding: 15px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 71px;
+	width: 134px;
+	margin: 15px;
+}
+.green_switch{
+	background-color: #1bd918;
+	padding: 15px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 71px;
+	margin: 15px;
+
+}
+.yellow_switch{
+	background-color: #f0ff4a;
+	padding: 15px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 71px;
+	margin: 15px;
+}
+.reset_switch{
+	background-color: #261005;
+	padding: 15px;
+	border-style: solid;
+	border-color: #000000;
+	width: 134px;
+	color: #ffffff;
+	margin:20px;
+}
